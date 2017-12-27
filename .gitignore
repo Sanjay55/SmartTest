@@ -1,6 +1,38 @@
-composer.phar
-/vendor/
-
-# Commit your application's lock file http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file
-# You may choose to ignore a library lock file http://getcomposer.org/doc/02-libraries.md#lock-file
-# composer.lock
+.project
+.buildpath
+.settings/
+filemanager/
+funcAcl/
+generis/
+generisHard/
+ltiDeliveryProvider/
+ltiTestConsumer/
+ontoBrowser/
+qtiItemPci/
+qtiItemPic/
+taoAltResultStorage/
+taoCampaign/
+taoCe/
+taoDacSimple/
+taoDelivery/
+taoDevTools/
+taoGroups/
+taoItems/
+taoLti/
+taoLtiBasicOutcome/
+taoOpenWebItem/
+taoQtiItem/
+taoQtiTest/
+taoResultServer/
+taoResults/
+taoResultsUdp/
+taoSimpleDelivery/
+taoTestTaker/
+taoTests/
+taoWfAdvTest/
+taoWfTest/
+vendor/
+wfAuthoring/
+wfEngine/
+taoOutcomeRds/
+taoOutcomeUi/
